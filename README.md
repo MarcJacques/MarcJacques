@@ -3,7 +3,6 @@
 <!--
 **MarcJacques/MarcJacques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 iOS Software Engineer with a proven ability to solve complex problems and work effectively in collaborative settings. 
 In my past career I managed 100+ staff and provided support, resources, and assistance. I also solved productivity and 
 attendance issues by establishing routines and training programs and by increasing efficiency to move over 30K+ of 
@@ -20,3 +19,5 @@ find ways to build mobile applications to solve real-world problems.
 📲 Call Me here: (516) 557-4660
 
 ![Marc's github stats](https://github-readme-stats.vercel.app/api?username=marcjacques&show_icons=true&theme=dark)
+
+-->
